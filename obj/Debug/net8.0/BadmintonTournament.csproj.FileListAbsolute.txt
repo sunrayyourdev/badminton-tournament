@@ -1,0 +1,28 @@
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\bin\Debug\net8.0\BadmintonTournament.exe
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\bin\Debug\net8.0\BadmintonTournament.deps.json
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\bin\Debug\net8.0\BadmintonTournament.runtimeconfig.json
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\bin\Debug\net8.0\BadmintonTournament.dll
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\bin\Debug\net8.0\BadmintonTournament.pdb
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.AssemblyInfoInputs.cache
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.AssemblyInfo.cs
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.csproj.CoreCompileInputs.cache
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.dll
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\obj\Debug\net8.0\refint\BadmintonTournament.dll
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.pdb
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.genruntimeconfig.cache
+C:\Users\xxrob\OneDrive\Coding Projects\C#\BadmintonTournament\obj\Debug\net8.0\ref\BadmintonTournament.dll
+C:\Users\xxrob\Coding\C#\BadmintonTournament\bin\Debug\net8.0\BadmintonTournament.exe
+C:\Users\xxrob\Coding\C#\BadmintonTournament\bin\Debug\net8.0\BadmintonTournament.deps.json
+C:\Users\xxrob\Coding\C#\BadmintonTournament\bin\Debug\net8.0\BadmintonTournament.runtimeconfig.json
+C:\Users\xxrob\Coding\C#\BadmintonTournament\bin\Debug\net8.0\BadmintonTournament.dll
+C:\Users\xxrob\Coding\C#\BadmintonTournament\bin\Debug\net8.0\BadmintonTournament.pdb
+C:\Users\xxrob\Coding\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxrob\Coding\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.AssemblyInfoInputs.cache
+C:\Users\xxrob\Coding\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.AssemblyInfo.cs
+C:\Users\xxrob\Coding\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.csproj.CoreCompileInputs.cache
+C:\Users\xxrob\Coding\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.dll
+C:\Users\xxrob\Coding\C#\BadmintonTournament\obj\Debug\net8.0\refint\BadmintonTournament.dll
+C:\Users\xxrob\Coding\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.pdb
+C:\Users\xxrob\Coding\C#\BadmintonTournament\obj\Debug\net8.0\BadmintonTournament.genruntimeconfig.cache
+C:\Users\xxrob\Coding\C#\BadmintonTournament\obj\Debug\net8.0\ref\BadmintonTournament.dll
