@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xxrob\\Coding\\C#\\BadmintonTournament\\BadmintonTournament.csproj": {}
+    "C:\\Users\\xxrob\\Coding\\badminton-tournament\\BadmintonTournament.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xxrob\\Coding\\C#\\BadmintonTournament\\BadmintonTournament.csproj": {
+    "C:\\Users\\xxrob\\Coding\\badminton-tournament\\BadmintonTournament.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xxrob\\Coding\\C#\\BadmintonTournament\\BadmintonTournament.csproj",
+        "projectUniqueName": "C:\\Users\\xxrob\\Coding\\badminton-tournament\\BadmintonTournament.csproj",
         "projectName": "BadmintonTournament",
-        "projectPath": "C:\\Users\\xxrob\\Coding\\C#\\BadmintonTournament\\BadmintonTournament.csproj",
+        "projectPath": "C:\\Users\\xxrob\\Coding\\badminton-tournament\\BadmintonTournament.csproj",
         "packagesPath": "C:\\Users\\xxrob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xxrob\\Coding\\C#\\BadmintonTournament\\obj\\",
+        "outputPath": "C:\\Users\\xxrob\\Coding\\badminton-tournament\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\xxrob\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\xxrob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

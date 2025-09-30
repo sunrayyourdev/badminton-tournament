@@ -1,4 +1,5 @@
-Badminton Tournament Game
+# Badminton Tournament Game
+
 - Create your player
 - Choose number of participants
 - Matches will be played in a bracket format

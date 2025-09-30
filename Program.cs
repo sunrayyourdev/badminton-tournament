@@ -35,7 +35,7 @@ class Program
 
 
         // 2. Set Up Tournament Bracket
-        int number_of_players = IntegerInput("Number of Players", 1, 16);
+        int number_of_players = 16;
 
         Player[] player_list = new Player[number_of_players];
         player_list[0] = main_player;
@@ -97,35 +97,36 @@ class Program
                 main_bracket.Remove(loser);
                 losers.Add(loser);
 
-                Console.WriteLine($"{p1.Name} ({p1.Rating}) vs {p2.Name} ({p2.Rating}) | Winner: {winner.Name}");
+                Console.WriteLine($"{p1.Name} ({p1.Rating}) vs {p2.Name} ({p2.Rating}) | Score: {p1.Points}-{p2.Points}, Winner: {winner.Name}");
+                p1.Reset();
+                p2.Reset();
             }
         }
 
         static void DetermineWinner(out Player winner, out Player loser, Player p1, Player p2)
         {
-            if (p1.Rating > p2.Rating)
+            var p1_odds = Math.Round(p1.Rating / (p1.Rating + p2.Rating) * 1000);
+            while ((int)Math.Pow(p1.Points - p2.Points, 2) < 4 || (p1.Points < 21 && p2.Points < 21))
+            {
+                var random_number = new Random().Next(1000);
+                if (random_number <= p1_odds)
+                {
+                    p1.Points += 1;
+                }
+                else
+                {
+                    p2.Points += 1;
+                }
+            }
+            if (p1.Points > p2.Points)
             {
                 winner = p1;
                 loser = p2;
             }
-            else if (p2.Rating > p1.Rating)
+            else
             {
                 winner = p2;
                 loser = p1;
-            }
-            else
-            {
-                var random = new Random();
-                if (random.Next(2) == 0)
-                {
-                    winner = p1;
-                    loser = p2;
-                }
-                else
-                {
-                    winner = p2;
-                    loser = p1;
-                }
             }
         }
 
